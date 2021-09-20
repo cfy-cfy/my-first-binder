@@ -7,7 +7,10 @@
  
 <!-- ——————————————————————————————————————————————————————————————— -->
 
-【1】Binder提供代码以及执行它的硬件和软件的服务：https://www.pythonheidong.com/blog/article/467216/3a5f2526e1b8ce63bc96/
+【1】Binder提供代码以及执行它的硬件和软件的服务：
+  https://www.pythonheidong.com/blog/article/467216/3a5f2526e1b8ce63bc96/
+
+  https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/boost-research-reproducibility-binder/workshop-presentations/zero-to-binder-python.md#1-creating-a-repo-to-binderize
 
   【创建仓库】
 
@@ -48,5 +51,7 @@
 【共享】
   直接分享链接： https://mybinder.org/v2/gh/cfy-cfy/my-first-binder.git/HEAD
   https://mybinder.org/v2/gh/cfy-cfy/my-first-binder/abbeb06a14a0f6eb37637b3d30220088716236d2?urlpath=lab%2Ftree%2Ftest.ipynb
+  
+  
   
  
