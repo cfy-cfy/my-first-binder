@@ -62,8 +62,8 @@
 
 【共享】
   直接分享链接1： https://mybinder.org/v2/gh/cfy-cfy/my-first-binder.git/HEAD
-  直接分享链接2：https://mybinder.org/v2/gh/cfy-cfy/HEAD
-  直接分享链接3：https://mybinder.org/v2/gh/cfy-cfy/my-first-binder/abbeb06a14a0f6eb37637b3d30220088716236d2?urlpath=lab%2Ftree%2Ftest.ipynb
+
+  直接分享链接2：https://mybinder.org/v2/gh/cfy-cfy/my-first-binder/abbeb06a14a0f6eb37637b3d30220088716236d2?urlpath=lab%2Ftree%2Ftest.ipynb
   
   
   
