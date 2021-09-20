@@ -8,10 +8,13 @@
 ———————————————————————————————————————————————————————————————//
 
 【Jupyter Notebook云端展示平台】
-【A】jupyter nbviewer          URL:https://nbviewer.jupyter.org/
-【B】binder                    URL:https://mybinder.org  
-    使用文档：https://mybinder.readthedocs.io/en/latest/index.html#
-【C】google colab              官方介绍:https://colab.research.google.com/notebooks/welcome.ipynb
+
+ 【A】jupyter nbviewer          URL:https://nbviewer.jupyter.org/
+
+ 【B】binder                    URL:https://mybinder.org  
+     使用文档：https://mybinder.readthedocs.io/en/latest/index.html#
+
+ 【C】google colab              官方介绍:https://colab.research.google.com/notebooks/welcome.ipynb
 
 ———————————————————————————————————————————————————————————————//
 
@@ -58,8 +61,9 @@
     numpy.random.randn()
 
 【共享】
-  直接分享链接： https://mybinder.org/v2/gh/cfy-cfy/my-first-binder.git/HEAD
-  https://mybinder.org/v2/gh/cfy-cfy/my-first-binder/abbeb06a14a0f6eb37637b3d30220088716236d2?urlpath=lab%2Ftree%2Ftest.ipynb
+  直接分享链接1： https://mybinder.org/v2/gh/cfy-cfy/my-first-binder.git/HEAD
+  直接分享链接2：https://mybinder.org/v2/gh/cfy-cfy/HEAD
+  直接分享链接3：https://mybinder.org/v2/gh/cfy-cfy/my-first-binder/abbeb06a14a0f6eb37637b3d30220088716236d2?urlpath=lab%2Ftree%2Ftest.ipynb
   
   
   
