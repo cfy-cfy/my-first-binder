@@ -5,9 +5,17 @@
 .. image:: https://mybinder.org/badge_logo.svg
  :target: https://mybinder.org/v2/gh/cfy-cfy/my-first-binder.git/HEAD
  
-<!-- ——————————————————————————————————————————————————————————————— -->
+———————————————————————————————————————————————————————————————//
 
-【1】Binder提供代码以及执行它的硬件和软件的服务：
+【Jupyter Notebook云端展示平台】
+【A】jupyter nbviewer          URL:https://nbviewer.jupyter.org/
+【B】binder                    URL:https://mybinder.org  
+    使用文档：https://mybinder.readthedocs.io/en/latest/index.html#
+【C】google colab              官方介绍:https://colab.research.google.com/notebooks/welcome.ipynb
+
+———————————————————————————————————————————————————————————————//
+
+【B】Binder提供代码以及执行它的硬件和软件的服务：
   https://www.pythonheidong.com/blog/article/467216/3a5f2526e1b8ce63bc96/
 
   https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/boost-research-reproducibility-binder/workshop-presentations/zero-to-binder-python.md#1-creating-a-repo-to-binderize
