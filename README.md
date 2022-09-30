@@ -20,10 +20,7 @@
 
     通过Web界面创建一个名为hello.py的文件，添加内容print（“ Hello from Binder！”）并提交给master分支
     
-【使用Binder启动仓库】
-  
-  打开 https://mybinder.org
-  打开 https://notebooks.gesis.org/binder/
+【使用Binder启动仓库】打开 https://mybinder.org       打开 https://notebooks.gesis.org/binder/
       
   使用文档：https://mybinder.readthedocs.io/en/latest/index.html#
   在"GitHub repo or URL" 输入框中，键入新建仓库地址：https://github.com/cfy-cfy/my-first-binder.git
